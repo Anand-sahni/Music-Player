@@ -5,3 +5,4 @@ This music player has limited songs which are already put by the coder in this a
 <br/>
 https://music-x-player.netlify.app/
 <br/>
+https://anand-sahni.github.io/Music-Player/
